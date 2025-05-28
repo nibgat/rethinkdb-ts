@@ -15,9 +15,6 @@
   "directories": {
     "test": "test"
   },
-  "engines": {
-    "node": ">=18.x <=22.x"
-  },
   "scripts": {
     "prepare": "husky install && tsc",
     "build": "tsc",
